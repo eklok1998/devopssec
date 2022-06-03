@@ -17,6 +17,25 @@ touch .gitignore.txt
 sudo nano /Users/eekaylok/Documents/NCI/Advanced-Client-Side/Week2/.gitignore.txt
 #I entered the path names to fol_1 and fol_2 in the .gitignore file.
 
+#GitHub repository has been created. I pushed the files and committed them from Terminal. 
+
+cd /Users/eekaylok/Documents/NCI/Advanced-Client-Side/Week2/fol_1 
+chmod u+rw 1_1.txt 1_3.txt
+
+cd /Users/eekaylok/Documents/NCI/Advanced-Client-Side/Week2/fol_2
+chmod u+rw 1_1.txt 1_3.txt
+
+cd /Users/eekaylok/Documents/NCI/Advanced-Client-Side/Week2/fol_1 
+chmod g+rwx 1_2.txt
+
+cd /Users/eekaylok/Documents/NCI/Advanced-Client-Side/Week2/fol_2
+chmod g+rwx 1_2.txt
+
+cd /Users/eekaylok/Documents/NCI/Advanced-Client-Side/Week2
+touch README.md
+#I added my name and student ID using sudo nano.
+
+
 
 
 
