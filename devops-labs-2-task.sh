@@ -33,9 +33,7 @@ chmod g+rwx 1_2.txt
 
 cd /Users/eekaylok/Documents/NCI/Advanced-Client-Side/Week2
 touch README.md
-#I added my name and student ID using sudo nano.
+#I added my name and student ID using sudo nano. I then committed it and pushed it to GitHub.
 
-
-
-
+echo "Job completed"
 
